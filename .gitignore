@@ -1,0 +1,40 @@
+# logs
+logs
+*.log
+npm-debug.log*
+artillery-*.yml
+results*
+# media
+media/
+CLAUDE.md
+.DS_Store
+# misc
+*.tar
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.wim
+
+# env
+.env
+.env.dev
+.env.prod
+.env.test
+
+#scripts
+scripts/
+
+# dependencies
+package-lock.json
+yarn.lock
+node_modules
+# misc
+*.tar
+*.zip
+
+
+notes.txt
+
+# Sentry Config File
+.sentryclirc
